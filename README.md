@@ -1,6 +1,6 @@
 <h3 align="center">Learning everything there is to know</h3>
 
-- 🔭 I’m currently working on [fairalerts.com](https://fairalerts.com)
+- 🔭 I’m currently working at [brightsoft.com](https://brightsoft.com)
 
 - 🌱 I’m currently learning **React, Node, Firebase and AI 🤖**
 
