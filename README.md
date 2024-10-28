@@ -1,8 +1,6 @@
-<h3 align="center">Learning everything there is to know</h3>
+🔭 Working on cool tech
 
-- 🔭 Working on cool tech
-
-- 🌱 Teaching myself more in depth backend technologies
+🌱 Teaching myself more in depth backend technologies
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
