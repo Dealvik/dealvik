@@ -1,10 +1,8 @@
 <h3 align="center">Learning everything there is to know</h3>
 
-- 🔭 I’m currently working at [brightsoft.com](https://brightsoft.com)
+- 🔭 Working on cool tech
 
-- 🌱 I’m currently learning **React, Node, Firebase and AI 🤖**
-
-- 📫 How to reach me **dealvik@gmail.com**
+- 🌱 Teaching myself more in depth backend technologies
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
